@@ -1,0 +1,13 @@
+<widget id="A6049598686929"  version="0.0.1">
+    <name>ar-rtc</name>
+    <description>ARtcSdkForAPICloud</description>
+    <author email="hi@dync.cc" href="https://www.anyrtc.io">
+        Developer
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="bounces" value="true" />
+    <preference name="debug" value="true" />
+    <preference name="customRefreshHeader" value="cusHeader" />
+</widget>
+
